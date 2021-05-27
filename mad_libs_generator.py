@@ -17,3 +17,4 @@ print("The total number of employees in our studio is about " + company_size + "
 print("For me, I think that the most outstanding game that we have made so far is " + favourite_game + ".") 
 print("Hopefully, in the future, we will deliver more fantastic games to all of our fans.") 
 print("Bye for now and have a great day!" )
+input(" ")
